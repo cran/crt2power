@@ -1,4 +1,4 @@
-b1fcb5109645bdf3e44af99a6a77bcdb *DESCRIPTION
+8110e358739ea7c57c9cd8dd8eb9fbcd *DESCRIPTION
 4b6fc0f448ed77a3add29d0d7087ad00 *NAMESPACE
 b2c68891ccaf0637cd0204c705a2bb10 *R/calc_ncp_chi2.R
 bd1f0f94359680283d990b2c1a6b4653 *R/calc_pwr_comb_outcome.R
@@ -27,9 +27,9 @@ e2a5ea4313b5327bf2957d981ee92382 *man/calc_pwr_pval_adj.Rd
 9a0f455806d9e2b6ae5d2990b0c5bb1a *man/calc_pwr_single_1dftest.Rd
 742cbc278c5cafda45fd456be148f197 *man/run_crt2_design.Rd
 b04108d4206d28d0735f589cd11c6c7b *tests/testthat.R
-f80301c39eddb0cb75f7bba165b76069 *tests/testthat/test-comb_outcome.R
-f02c5695fc0505321a8bcbad4080bdcc *tests/testthat/test-conj_test.R
-d91d0039a6d54f2d23d82d850f2f7d80 *tests/testthat/test-disj_2dftest.R
-0e22b0ee73176826e9da617fb0ab9754 *tests/testthat/test-pval_adj.R
+9ff8691eedd8db1ec33af2beb3f13a0f *tests/testthat/test-comb_outcome.R
+dcef79166f25ee8d17785c9c50be8754 *tests/testthat/test-conj_test.R
+b4b3e5ef96a9544a06fad541a0142e99 *tests/testthat/test-disj_2dftest.R
+108ee4c5e10c0f05919e1af608e2576d *tests/testthat/test-pval_adj.R
 d227e7a0e32b764dbad5a62911f0ff5c *tests/testthat/test-run_crt2_design.R
-02330c51ba185a891f3e63d010abca05 *tests/testthat/test-single_1dftest.R
+2f7f27bd4b672a85677e1e723a55a55b *tests/testthat/test-single_1dftest.R
